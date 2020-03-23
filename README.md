@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
+-Description community-starter-kit
 
 ## What it does
 
-FEATURES PLACEHOLDER
+-What it does
 
 ## Getting started
 
